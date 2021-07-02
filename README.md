@@ -11,7 +11,7 @@ Falling rectangles app with some functionalities.
 1. New Game and Pause were added with proper shortcuts.
 2. There are two counters for: missed and wrong keys. (wrong is for functionality which is not implemented yet)
 3. Main window cannot be resized and is always the topmost.
-4. Context menu has been added for changing background with color or bitmap. Can be tiled by default or stretched.
+4. Context menu has been added for changing background with color or bitmap. Can be tiled by default or stretched. (This functionality does not work in version I uploaded. It is the commented part at the end. There are two errors with variables in the Color struct)
 # Additional functionalities
 1. Alt+F4 closes application.
 2. there are some shortcuts visible in menu.
